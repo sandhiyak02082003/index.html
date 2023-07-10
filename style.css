@@ -1,0 +1,24 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    text-align: left;
+}
+p,h4{
+    text-align: left;
+    font-size: 15px;
+    color: black;
+}
+img{
+    float: left;
+}
+.link{
+    text-decoration: dashed;
+    color: crimson;
+    font-size: larger;
+}
+#head{
+    background-color: green;
+}
+
